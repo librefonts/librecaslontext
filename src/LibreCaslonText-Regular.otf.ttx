@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="LibreCaslonText-Regular.otf.GlyphOrder.ttx"/>
+  <head src="LibreCaslonText-Regular.otf._h_e_a_d.ttx"/>
+  <hhea src="LibreCaslonText-Regular.otf._h_h_e_a.ttx"/>
+  <maxp src="LibreCaslonText-Regular.otf._m_a_x_p.ttx"/>
+  <OS_2 src="LibreCaslonText-Regular.otf.O_S_2f_2.ttx"/>
+  <name src="LibreCaslonText-Regular.otf._n_a_m_e.ttx"/>
+  <cmap src="LibreCaslonText-Regular.otf._c_m_a_p.ttx"/>
+  <post src="LibreCaslonText-Regular.otf._p_o_s_t.ttx"/>
+  <CFF src="LibreCaslonText-Regular.otf.C_F_F_.ttx"/>
+  <GPOS src="LibreCaslonText-Regular.otf.G_P_O_S_.ttx"/>
+  <GSUB src="LibreCaslonText-Regular.otf.G_S_U_B_.ttx"/>
+  <hmtx src="LibreCaslonText-Regular.otf._h_m_t_x.ttx"/>
+</ttFont>
